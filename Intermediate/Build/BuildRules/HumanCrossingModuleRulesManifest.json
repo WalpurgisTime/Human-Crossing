@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Corentin Jouan\\spdps-paw2m\\Intermediate\\Source\\HumanCrossing.Build.cs",
+		"C:\\Users\\Corentin Jouan\\spdps-paw2m\\Intermediate\\Source\\HumanCrossing.Target.cs",
+		"C:\\Users\\Corentin Jouan\\spdps-paw2m\\Intermediate\\Source\\HumanCrossingClient.Target.cs",
+		"C:\\Users\\Corentin Jouan\\spdps-paw2m\\Intermediate\\Source\\HumanCrossingEditor.Target.cs",
+		"C:\\Users\\Corentin Jouan\\spdps-paw2m\\Intermediate\\Source\\HumanCrossingServer.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
